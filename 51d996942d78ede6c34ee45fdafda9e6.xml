@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<replaySeqRoot numberOfSequences="1">
+	<replaySequence name= "BOWLED_OUT" type="BOWLED_OUT">
+	
+
+		<event name = "BOWL"/>
+		<event name = "BOUNCE_PITCH"/>
+		<event name="BOWLED_OUT"/>
+		
+				
+		<command name= "SET_CAMERA_FOCUS">
+		<focus>BALL</focus>
+		</command>
+		
+		<command name= "SET_NAMED_CAMERA">
+		<camera name ="BOWLEDOUT" />
+		</command>
+		
+		<command name = "REWIND_TO_EVENT">
+		<event name = "BOUNCE_PITCH"></event>
+		</command>
+
+		<command name="REWIND_N_TICKS">
+		<ticks>20</ticks>
+		</command>
+	
+		<command name="SET_PLAY_SPEED">
+		<speed>0.05</speed>
+		</command>
+		
+		<command name = "PLAY_TO_EVENT">
+		<event>BOWLED_OUT</event>
+		</command>
+		
+		<command name="PLAY_N_TICKS">
+		<ticks>2</ticks>
+		</command>
+	
+		<command name = "REWIND_TO_EVENT">
+		<event name = "BOUNCE_PITCH">
+		</event>
+		</command>
+
+		<command name="REWIND_N_TICKS">
+		<ticks>20</ticks>
+		</command>
+
+		<command name= "SET_NAMED_CAMERA">
+		<camera name ="BOWLEDOUT" />
+		</command>
+			
+		<command name="SET_PLAY_SPEED">
+		<speed>0.05</speed>
+		</command>
+		
+		<command name = "PLAY_TO_EVENT">
+		<event>BOWLED_OUT</event>
+		</command>
+		
+		<command name="PLAY_N_TICKS">
+		<ticks>2</ticks>
+		</command>
+	
+	</replaySequence>
+</replaySeqRoot>

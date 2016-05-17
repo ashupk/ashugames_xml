@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<replaySeqRoot numberOfSequences="1">
+	<replaySequence name= "RUN_OUT" type="RUN_OUT">
+	
+
+		<event name = "BOWL"/>
+		<event name="HIT"/>
+		<event name="RUN_OUT"/>
+		
+		
+		
+
+		<command name="REWIND_TO_EVENT">
+		<event name="RUN_OUT"></event>
+		</command>
+		
+		<command name="REWIND_N_TICKS">
+		<ticks>35</ticks>
+		</command>
+			
+		<command name= "SET_NAMED_CAMERA">
+		<camera name ="LBW" />
+		</command>
+		
+		<command name= "SET_CAMERA_FOCUS">
+		<focus>STUMP</focus>
+		</command>
+		
+		<command name="SET_PLAY_SPEED">
+		<speed>0.45</speed>
+		</command>
+		
+		<command name="PLAY_TO_EVENT">
+		<event>RUN_OUT</event>
+		</command>
+		<command name="PLAY_N_TICKS">
+		<ticks>10</ticks>
+		</command>
+
+
+	
+		<command name="REWIND_TO_EVENT">
+		<event name="RUN_OUT"></event>
+		</command>
+		
+		<command name="REWIND_N_TICKS">
+		<ticks>15</ticks>
+		</command>
+			
+		<command name= "SET_NAMED_CAMERA">
+		<camera name ="Third Umpire" />
+		</command>
+		
+		<command name= "SET_CAMERA_FOCUS">
+		<focus>STUMP</focus>
+		</command>
+		
+		<command name="SET_PLAY_SPEED">
+		<speed>0.25</speed>
+		</command>
+		
+		<command name="PLAY_TO_EVENT">
+		<event>RUN_OUT</event>
+		</command>
+		<command name="PLAY_N_TICKS">
+		<ticks>10</ticks>
+		</command>
+		
+
+
+
+		<command name="REWIND_TO_EVENT">
+		<event name="RUN_OUT"></event>
+		</command>
+		<command name="REWIND_N_TICKS">
+		<ticks>100</ticks>
+		</command>
+
+		<command name="SET_PLAY_SPEED">
+		<speed>0.4</speed>
+		</command>
+		
+		<command name= "SET_NAMED_CAMERA">
+		<camera name ="XZCamera" />
+		</command>
+		<command name= "SET_CAMERA_FOCUS">
+		<focus>BALL</focus>
+		</command>
+			
+		<command name="PLAY_TO_EVENT">
+		<event >RUN_OUT</event>
+		</command>	
+		<command name="PLAY_N_TICKS">
+		<ticks>5</ticks>
+		</command>
+
+		
+
+	</replaySequence>
+</replaySeqRoot>

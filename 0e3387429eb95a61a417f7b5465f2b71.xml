@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<replaySeqRoot numberOfSequences="1">
+	<replaySequence name= "LBW" type="LBW">
+	
+
+		<event name = "BOWL"/>
+		<event name="LBW"/>
+		
+		<command name="REWIND_TO_EVENT">
+		<event name="BOWL"></event>
+		</command>
+
+		<command name= "SET_NAMED_CAMERA">
+		<camera name ="Replay Default" />
+		</command>
+		<command name= "SET_CAMERA_FOCUS">
+		<focus>BALL</focus>
+		</command>
+		
+		<command name="SET_PLAY_SPEED">
+		<speed>0.2</speed>
+		</command>
+		
+		<command name="PLAY_TO_END">
+		</command>
+		
+		<command name="REWIND_TO_EVENT">
+		<event name="BOWL"></event>
+		</command>
+
+		<command name= "SET_NAMED_CAMERA">
+		<camera name ="LBW" />
+		</command>
+		<command name= "SET_CAMERA_FOCUS">
+		<focus>BALL</focus>
+		</command>
+		
+		<command name="SET_PLAY_SPEED">
+		<speed>0.3</speed>
+		</command>
+		
+		<command name="PLAY_N_TICKS">
+		<ticks>.5</ticks>
+		</command>
+
+		
+
+		<command name="SET_PLAY_SPEED">
+		<speed>0.03</speed>
+		</command>
+		<command name="PLAY_N_TICKS">
+		<ticks>.1</ticks>
+		</command>
+		<command name="SET_PLAY_SPEED">
+		<speed>0.3</speed>
+		</command>
+		<command name="PLAY_TO_END">
+		</command>
+	
+	</replaySequence>
+</replaySeqRoot>
+

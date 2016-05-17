@@ -1,0 +1,866 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <!-- Note that the information in this file must remain consistent with the team data in teaminfo.xml, found in this directory -->
+  <teams>
+    <team name="Australia" location="aus" altlocation="auo" id="0">
+      <kit name="Coloured" namecolour="#b89931" numbercolour="#b89931" altnamecolour="#0f4d2a" altnumbercolour="#0f4d2a" />
+      <kit name="White" />
+      <kit name="Sweater" />
+    </team>
+    <team name="Bangladesh" location="ban" id="1">
+      <kit name="Coloured" namecolour="#FFFFFF" numbercolour="#FFFFFF" />
+      <kit name="White" />
+      <kit name="Sweater" />
+    </team>
+    <team name="Border" location="bor" id="2">
+      <kit name="Coloured" namecolour="#FFFFFF" numbercolour="#FFFFFF" />
+      <kit name="White" />
+      <kit name="Sweater" />
+    </team>
+    <team name="Canada" location="can" id="3">
+      <kit name="Coloured" namecolour="#FFFFFF" numbercolour="#FFFFFF" />
+      <kit name="White" />
+      <kit name="Sweater" />
+    </team>
+    <team name="Canterbury" location="ctb" id="4">
+      <kit name="Coloured" namecolour="#FFFFFF" numbercolour="#FFFFFF" />
+      <kit name="White" />
+      <kit name="Sweater" />
+    </team>
+    <team name="Derbyshire" location="dbs" id="5">
+      <kit name="Coloured" namecolour="#000932" numbercolour="#000932" />
+      <kit name="White" namecolour="#171860" numbercolour="#171860" />
+      <kit name="Sweater" />
+    </team>
+    <team name="Durham" location="drm" id="6">
+      <kit name="Coloured" namecolour="#edbd1d" numbercolour="#000027" />
+      <kit name="White" namecolour="#040420" numbercolour="#040420" />
+      <kit name="Sweater" />
+    </team>
+    <team name="England" location="eng" id="7">
+      <kit name="Coloured" namecolour="#FFFFFF" numbercolour="#FFFFFF" />
+      <kit name="White" />
+      <kit name="Sweater" />
+    </team>
+    <team name="Essex" location="esx" id="8">
+      <kit name="Coloured" namecolour="#ca0000" numbercolour="#edd300" />
+      <kit name="White" namecolour="#0E0E37" numbercolour="#0E0E37" />
+      <kit name="Sweater" />
+    </team>
+    <team name="Gauteng" location="gtg" id="9">
+      <kit name="Coloured" namecolour="#FFFFFF" numbercolour="#FFFFFF" />
+      <kit name="White" />
+      <kit name="Sweater" />
+    </team>
+    <team name="Glamorgan" location="gmg" id="10">
+      <kit name="Coloured" namecolour="#FFFFFF" numbercolour="#FFFFFF" />
+      <kit name="White" namecolour="#b01010" numbercolour="#b01010" />
+      <kit name="Sweater" />
+    </team>
+    <team name="Gloucestershire" location="glo" id="11">
+      <kit name="Coloured" namecolour="#FFFFFF" numbercolour="#FFFFFF" />
+      <kit name="White" namecolour="#070735" numbercolour="#070735" />
+      <kit name="Sweater" />
+    </team>
+    <team name="Hampshire" location="hmp" id="12">
+      <kit name="Coloured" namecolour="#bba600" numbercolour="#bba600" />
+      <kit name="White" namecolour="#000043" numbercolour="#000043" />
+      <kit name="Sweater" namecolour="#071163" numbercolour="#071163" />
+    </team>
+    <team name="India" location="ind" id="13">
+      <kit name="Coloured" namecolour="#FBFA26" numbercolour="#FBFA26" />
+      <kit name="White" />
+      <kit name="Sweater" />
+    </team>
+    <team name="Kent" location="knt" id="14">
+      <kit name="Coloured" namecolour="#FFFFFF" numbercolour="#FFFFFF" />
+      <kit name="White" />
+      <kit name="Sweater" />
+    </team>
+    <team name="Kenya" location="ken" id="15">
+      <kit name="Coloured" namecolour="#FFFFFF" numbercolour="#FFFFFF" />
+      <kit name="White" />
+      <kit name="Sweater" />
+    </team>
+    <team name="Lancashire" location="lan" id="16">
+      <kit name="Coloured" namecolour="#FFFFFF" numbercolour="#FFFFFF" />
+      <kit name="White" namecolour="#000000" numbercolour="#000000" />
+      <kit name="Sweater" namecolour="#000000" numbercolour="#000000" />
+    </team>
+    <team name="Leicestershire" location="les" id="17">
+      <kit name="Coloured" namecolour="#F9E224" numbercolour="#F9E224" />
+      <kit name="White" namecolour="#0C2200" numbercolour="#0C2200" />
+      <kit name="Sweater" />
+    </team>
+    <team name="Middlesex" location="msx" id="18">
+      <kit name="Coloured" namecolour="#FFFFFF" numbercolour="#FFFFFF" />
+      <kit name="White" />
+      <kit name="Sweater" />
+    </team>
+    <team name="Minor Counties" location="mco" id="19">
+      <kit name="Coloured" namecolour="#FFFFFF" numbercolour="#FFFFFF" />
+      <kit name="White" />
+      <kit name="Sweater" />
+    </team>
+    <team name="Namibia" location="nam" id="20">
+      <kit name="Coloured" namecolour="#FAE000" numbercolour="#FAE000" />
+      <kit name="White" />
+      <kit name="Sweater" />
+    </team>
+    <team name="Netherlands" location="ntl" id="21">
+      <kit name="Coloured" namecolour="#0000B6" numbercolour="#0000B6" />
+      <kit name="White" />
+      <kit name="Sweater" />
+    </team>
+    <team name="New South Whales" location="nsw" id="22">
+      <kit name="Coloured" namecolour="#BD1E20" numbercolour="#BD1E20" />
+      <kit name="White" />
+      <kit name="Sweater" />
+    </team>
+    <team name="New Zealand" location="nzl" id="23">
+      <kit name="Coloured" namecolour="#FFFFFF" numbercolour="#FFFFFF" />
+      <kit name="White" />
+      <kit name="Sweater" />
+    </team>
+    <team name="Northamptonshire" location="nhs" id="24">
+      <kit name="Coloured" namecolour="#e06539" numbercolour="#e06539" />
+      <kit name="White" namecolour="#3E0001" numbercolour="#3E0001" />
+      <kit name="Sweater" />
+    </team>
+    <team name="Northen Districts" location="nd" id="25">
+      <kit name="Coloured" namecolour="#FFFFFF" numbercolour="#FFFFFF" />
+      <kit name="White" />
+      <kit name="Sweater" />
+    </team>
+    <team name="Nottinghamshire" location="nms" id="26">
+      <kit name="Coloured" namecolour="#ffffff" numbercolour="#ffffff" />
+      <kit name="White" namecolour="#001702" numbercolour="#001702" />
+      <kit name="Sweater" />
+    </team>
+    <team name="Pakistan" location="pak" id="27">
+      <kit name="Coloured" namecolour="#002915" numbercolour="#002915" />
+      <kit name="White" />
+      <kit name="Sweater" />
+    </team>
+    <team name="Queensland" location="qld" id="28">
+      <kit name="Coloured" namecolour="#180AB0" numbercolour="#180AB0" />
+      <kit name="White" />
+      <kit name="Sweater" />
+    </team>
+    <team name="Somerset" location="sms" id="29">
+      <kit name="Coloured" namecolour="#FFFFFF" numbercolour="#FFFFFF" />
+      <kit name="White" namecolour="#000000" numbercolour="#000000" />
+      <kit name="Sweater" />
+    </team>
+    <team name="South Africa" location="saf" id="30">
+      <kit name="Coloured" namecolour="#E0AD00" numbercolour="#E0AD00" />
+      <kit name="White" />
+      <kit name="Sweater" />
+    </team>
+    <team name="South Australia" location="sa" id="31">
+      <kit name="Coloured" namecolour="#FFFFFF" numbercolour="#FFFFFF" />
+      <kit name="White" />
+      <kit name="Sweater" />
+    </team>
+    <team name="Sri Lanka" location="sri" id="32">
+      <kit name="Coloured" namecolour="#D6DF00" numbercolour="#D6DF00" />
+      <kit name="White" />
+      <kit name="Sweater" />
+    </team>
+    <team name="Surrey" location="sry" id="33">
+      <kit name="Coloured" namecolour="#FFFFFF" numbercolour="#FFFFFF" />
+      <kit name="White" namecolour="#00002E" numbercolour="#00002E" />
+      <kit name="Sweater" />
+    </team>
+    <team name="Sussex" location="ssx" id="34">
+      <kit name="Coloured" namecolour="#FFFFFF" numbercolour="#FFFFFF" />
+      <kit name="White" namecolour="#000C6B" numbercolour="#000C6B" />
+      <kit name="Sweater" />
+    </team>
+    <team name="Tasmania" location="tas" id="35">
+      <kit name="Coloured" namecolour="#E0CE86" numbercolour="#E0CE86" />
+      <kit name="White" />
+      <kit name="Sweater" />
+    </team>
+    <team name="Trinidad" location="trd" id="36">
+      <kit name="Coloured" namecolour="#FFFFFF" numbercolour="#FFFFFF" />
+      <kit name="White" />
+      <kit name="Sweater" />
+    </team>
+    <team name="Victoria" location="vic" id="37">
+      <kit name="Coloured" namecolour="#000000" numbercolour="#000000" />
+      <kit name="White" />
+      <kit name="Sweater" />
+    </team>
+    <team name="Warwickshire" location="wws" id="38">
+      <kit name="Coloured" namecolour="#FFFFFF" numbercolour="#FFFFFF" />
+      <kit name="White" namecolour="#000031" numbercolour="#000031" />
+      <kit name="Sweater" />
+    </team>
+    <team name="West Indies" location="win" id="39">
+      <kit name="Coloured" namecolour="#FFFFFF" numbercolour="#FFFFFF" />
+      <kit name="White" />
+      <kit name="Sweater" />
+    </team>
+    <team name="Western Australia" location="war" id="40">
+      <kit name="Coloured" namecolour="#D72118" numbercolour="#D72118" />
+      <kit name="White" />
+      <kit name="Sweater" />
+    </team>
+    <team name="Worcestershire" location="wor" id="41">
+      <kit name="Coloured" namecolour="#FFFFFF" numbercolour="#FFFFFF" />
+      <kit name="White" namecolour="#000000" numbercolour="#000000" />
+      <kit name="Sweater" />
+    </team>
+    <team name="Yorkshire" location="yrk" id="42">
+      <kit name="Coloured" namecolour="#FFFFFF" numbercolour="#FFFFFF" />
+      <kit name="White" namecolour="#000026" numbercolour="#000026" />
+      <kit name="Sweater" />
+    </team>
+    <team name="Zimbabwe" location="zim" id="43">
+      <kit name="Coloured" namecolour="#FFFFFF" numbercolour="#FFFFFF" />
+      <kit name="White" />
+      <kit name="Sweater" />
+    </team>
+    <team name="Australia A" location="aua" id="44">
+      <kit name="Coloured" namecolour="#F5E73E" numbercolour="#F5E73E" />
+      <kit name="White" />
+      <kit name="Sweater" />
+    </team>
+    <team name="India A" location="ida" id="45">
+      <kit name="Coloured" namecolour="#B09038" numbercolour="#B09038" />
+      <kit name="White" />
+      <kit name="Sweater" />
+    </team>
+    <team name="Pakistan A" location="pka" id="46">
+      <kit name="Coloured" namecolour="#B8AC48" numbercolour="#000000" />
+      <kit name="White" />
+      <kit name="Sweater" />
+    </team>
+    <team name="South Africa A" location="sfa" id="47">
+      <kit name="Coloured" namecolour="#f2bf0c" numbercolour="#f2bf0c" />
+      <kit name="White" />
+      <kit name="Sweater" />
+    </team>
+    <team name="West Indies A" location="wia" id="48">
+      <kit name="Coloured" namecolour="#2F0313" numbercolour="#2F0313" />
+      <kit name="White" />
+      <kit name="Sweater" />
+    </team>
+    <team name="Cricket Australia Chairmans XI" location="cax" id="49">
+      <kit name="Coloured" namecolour="#FFFFFF" numbercolour="#FFFFFF" />
+      <kit name="White" />
+      <kit name="Sweater" />
+    </team>
+    <team name="Board Presidents XI" location="bpx" id="50">
+      <kit name="Coloured" namecolour="#FFFFFF" numbercolour="#FFFFFF" />
+      <kit name="White" />
+      <kit name="Sweater" />
+    </team>
+    <team name="Duke of Norfolks XI" location="dnx" id="51">
+      <kit name="Coloured" namecolour="#FFFFFF" numbercolour="#FFFFFF" />
+      <kit name="White" />
+      <kit name="Sweater" />
+    </team>
+    <team name="Governors XI" location="gvx" id="52">
+      <kit name="Coloured" namecolour="#FFFFFF" numbercolour="#FFFFFF" />
+      <kit name="White" />
+      <kit name="Sweater" />
+    </team>
+    <team name="Prime Ministers XI" location="pmx" id="53">
+      <kit name="Coloured" namecolour="#070065" numbercolour="#070065" />
+      <kit name="White" />
+      <kit name="Sweater" />
+    </team>
+    <team name="Vice Chancellors XI" location="vcx" id="54">
+      <kit name="Coloured" namecolour="#FFFFFF" numbercolour="#FFFFFF" />
+      <kit name="White" />
+      <kit name="Sweater" />
+    </team>
+    <team name="World Test XI" location="wtx" id="55">
+      <kit name="Coloured" namecolour="#FFFFFF" numbercolour="#FFFFFF" />
+      <kit name="White" />
+      <kit name="Sweater" />
+    </team>
+    <team name="World One Day XI" location="wox" id="56">
+      <kit name="Coloured" namecolour="#FFFFFF" numbercolour="#FFFFFF" />
+      <kit name="White" />
+      <kit name="Sweater" />
+    </team>
+    <team name="Scotland" location="sco" id="57">
+      <kit name="Coloured" namecolour="#FFFFFF" numbercolour="#FFFFFF" />
+      <kit name="White" />
+      <kit name="Sweater" />
+    </team>
+    <team name="USA" location="usa" id="58">
+      <kit name="Coloured" namecolour="#FFFFFF" numbercolour="#FFFFFF" />
+      <kit name="White" />
+      <kit name="Sweater" />
+    </team>
+    <team name="Bermuda" location="ber" id="59">
+      <kit name="Coloured" namecolour="#FFFFFF" numbercolour="#FFFFFF" />
+      <kit name="White" />
+      <kit name="Sweater" />
+    </team>
+    <team name="Ireland" location="ire" id="60">
+      <kit name="Coloured" namecolour="#FFFFFF" numbercolour="#FFFFFF" />
+      <kit name="White" />
+      <kit name="Sweater" />
+    </team>
+    <team name="Scotland" location="sci" id="61">
+      <kit name="Coloured" namecolour="#FFFFFF" numbercolour="#FFFFFF" />
+      <kit name="White" />
+      <kit name="Sweater" />
+    </team>
+    <team name="Ireland County" location="irc" id="62">
+      <kit name="Coloured" namecolour="#FFFFFF" numbercolour="#FFFFFF" />
+      <kit name="White" />
+      <kit name="Sweater" />
+    </team>
+    <team name="User Team 1" location="ut1" id="63">
+      <kit name="Coloured" namecolour="#FFFFFF" numbercolour="#FFFFFF" />
+      <kit name="White" />
+      <kit name="Sweater" />
+    </team>
+    <team name="User Team 2" location="ut2" id="64">
+      <kit name="Coloured" namecolour="#FFFFFF" numbercolour="#FFFFFF" />
+      <kit name="White" />
+      <kit name="Sweater" />
+    </team>
+    <team name="User Team 3" location="ut3" id="65">
+      <kit name="Coloured" namecolour="#FFFFFF" numbercolour="#FFFFFF" />
+      <kit name="White" />
+      <kit name="Sweater" />
+    </team>
+    <team name="User Team 4" location="ut4" id="66">
+      <kit name="Coloured" namecolour="#FFFFFF" numbercolour="#FFFFFF" />
+      <kit name="White" />
+      <kit name="Sweater" />
+    </team>
+  </teams>
+  <players>
+    <player medhairstyles="" lowhairstyles="" location="1536" name="Andrew Symonds" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="1814" name="Matthew Hayden" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="2390" name="Jacques Kallis" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="2786" name="Daniel Vettori" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="3152" name="Shaun Pollock" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="3860" name="Matthew Hoggard" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="3892" name="Stephen Harmison" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="4196" name="Adam Gilchrist" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="5865" name="Cameron White" skin="1" />
+    <player medhairstyles="1_11" lowhairstyles="1_11" location="6059" name="Jason Gillespie" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="6095" name="Damien Martyn" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="15819" name="Ricky Ponting" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="15909" name="Brett Lee" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="18031" name="Brad Hogg    " skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="20526" name="Ashley Giles" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="21449" name="Stephen Fleming" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="24280" name="Marcus Trescothick" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="24796" name="Michael Vaughn" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="25679" name="Andrew Flintoff" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="31486" name="Shane Warne" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="21449" name="Stephen Fleming" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="10942" name="Michael Clarke" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="430" name="Michael Kasprowiz" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="5443" name="Vikram Solanki" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="1623" name="Jacob Oran" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="22273" name="Gareth Batty" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="2693" name="Shane Bond" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="7351" name="Graham Thorpe" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="12051" name="James Anderson" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="24346" name="Brendon McCullum" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="11653" name="Mark Boucher" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="2530" name="Scott Styris" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="31650" name="Geraint Jones" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="693" name="Shane Watson" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="7822" name="Paul Collingwood" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="7953" name="Simon Katich" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="13108" name="Herschelle Gibbs" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="29933" name="Nicky Boje" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="1969" name="Graeme Smith" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="31518" name="Andrew Strauss" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="7026" name="Robert Key" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="4941" name="Makhaya Ntini" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="21122" name="Ridley Jacobs" skin="3" />
+    <player medhairstyles="" lowhairstyles="" location="15120" name="Darren Gough" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="3447" name="Nathan Astle" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="18858" name="Glenn Mcgrath" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="20147" name="Kabir Ali" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="11373" name="Justin Langer" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="5404" name="Stuart MacGill" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="2420" name="Ian Harvey" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="3813" name="Kevin Pietersen" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="4827" name="Simon Jones" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="5605" name="Anthony McGrath" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="2667" name="Chris Cairns" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="494" name="Daryl Tuffey" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="18228" name="Kyle Mills" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="8519" name="Mark Butcher" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="503" name="Brad Haddin" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="10968" name="Brad Hodge" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="21722" name="Mike Hussey" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="8607" name="Darren Lehmann" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="26130" name="Shoaib Akhtar" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="15715" name="Muttiah Muralitharan" skin="3" />
+    <player medhairstyles="" lowhairstyles="" location="7236" name="Heath Streak" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="41000" name="Generic Star1" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="41001" name="Generic Star2" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="41002" name="Generic Star3" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="41003" name="Generic Star4" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="41004" name="Generic Star5" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="41005" name="Generic Star6" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="41006" name="Generic Star7" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="41007" name="Generic Star8" skin="3" />
+    <player medhairstyles="" lowhairstyles="" location="41008" name="Generic Star9" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="41009" name="Generic Star10" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="41010" name="Generic Star11" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="41011" name="Generic Star12" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="41012" name="Generic Star13" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="41013" name="Generic Star14" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="41014" name="Generic Star15" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="41015" name="Generic Star16" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="41016" name="Generic Star17" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="41017" name="Generic Star18" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="41018" name="Generic Star19" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="41019" name="Generic Star20" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="41020" name="Generic Star21" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="41021" name="Generic Star22" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="41022" name="Generic Star23" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="41023" name="Generic Star24" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="41024" name="Generic Star25" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="41025" name="Generic Star26" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="41026" name="Generic Star27" skin="3" />
+    <player medhairstyles="" lowhairstyles="" location="41027" name="Generic Star28" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="41028" name="Generic Star29" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="41029" name="Generic Star30" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="41030" name="Generic Star31" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="41031" name="Generic Star32" skin="3" />
+    <player medhairstyles="" lowhairstyles="" location="41032" name="Generic Star33" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="41033" name="Generic Star34" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="41034" name="Generic Star35" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="41035" name="Generic Star36" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="41036" name="Generic Star37" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="41037" name="Generic Star38" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="41038" name="Generic Star39" skin="3" />
+    <player medhairstyles="" lowhairstyles="" location="41039" name="Generic Star40" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="41040" name="Generic Star41" skin="3" />
+    <player medhairstyles="" lowhairstyles="" location="41041" name="Generic Star42" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="41042" name="Generic Star43" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="41043" name="Generic Star44" skin="3" />
+    <player medhairstyles="" lowhairstyles="" location="41044" name="Generic Star45" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="41045" name="Generic Star46" skin="3" />
+    <player medhairstyles="" lowhairstyles="" location="41046" name="Generic Star47" skin="3" />
+    <player medhairstyles="" lowhairstyles="" location="41047" name="Generic Star48" skin="3" />
+    <player medhairstyles="" lowhairstyles="" location="41048" name="Generic Star49" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="41049" name="Generic Star50" skin="3" />
+    <player medhairstyles="" lowhairstyles="" location="41050" name="Generic Star51" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="41051" name="Generic Star52" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="41052" name="Generic Star53" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="41053" name="Generic Star54" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="41054" name="Generic Star55" skin="3" />
+    <player medhairstyles="" lowhairstyles="" location="41055" name="Generic Star56" skin="3" />
+    <player medhairstyles="" lowhairstyles="" location="41056" name="Generic Star57" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="41057" name="Generic Star58" skin="3" />
+    <player medhairstyles="" lowhairstyles="" location="41058" name="Generic Star59" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="41059" name="Generic Star60" skin="3" />
+    <player medhairstyles="" lowhairstyles="" location="43000" name="Generic Star61" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="43001" name="Generic Star62" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="43002" name="Generic Star63" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="45000" name="Umpire 1" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="45001" name="Umpire 2" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="21" name="Robin Peterson" skin="2" />
+    <player medhairstyles="1_11" lowhairstyles="1_11" location="8881" name="Nathan Bracken" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="8944" name="Andre Nel" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="27927" name="Lou Vincent" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="12591" name="Matt Prior" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="4666" name="Monty Panesar" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="32615" name="Owasis Shah" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="1476" name="Andy Bichel" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="99994" name="AB de Villiers" skin="1" />
+    <player medhairstyles="1_15" lowhairstyles="" location="23525" name="Alastair Cook" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="25783" name="Ian Bell" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="24719" name="Ian Blackwell" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="99993" name="Jamie How" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="99992" name="Jeetan Patel" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="28910" name="Zaheer Khan" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="15050" name="Jimmy Maher" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="24576" name="Sajid Mahmood" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="20469" name="Shaun Udal" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="18204" name="Stuart Clark" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="19535" name="Charl Langeveldt" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="14360" name="Brad Williams" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="8501" name="Greg Blewett" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="99991" name="James Franklin" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="28116" name="Liam Plunkett" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="1188" name="Nathan Hauritz" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="25466" name="Peter Fulton" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="25003" name="Andrew Hall" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="22614" name="Anil Kumble" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="13615" name="Boeta Dippaneaar" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="10407" name="Chris Martin" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="9324" name="Craig McMillan" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="29523" name="Hamish Mitchell" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="12388" name="Jaques Rudolph" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="15484" name="Shaun Tait" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="41060" name="Generic Star64" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="41061" name="Generic Star65" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="41062" name="Generic Star66" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="41063" name="Generic Star67" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="41064" name="Generic Star68" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="41065" name="Generic Star69" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="41066" name="Generic Star70" skin="3" />
+    <player medhairstyles="" lowhairstyles="" location="41067" name="Generic Star71" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="41068" name="Generic Star72" skin="3" />
+    <player medhairstyles="" lowhairstyles="" location="41069" name="Generic Star73" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="45002" name="Generic Star72" skin="3" />
+    <player medhairstyles="" lowhairstyles="" location="45003" name="Generic Star73" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="24363" name="M.Atapattu" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="244" name="M.Bandara" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="25963" name="T.Dilshan" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="18296" name="C.Vaas" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="13983" name="M.Jayawardene" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="11931" name="T.Samaraweera" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="26458" name="L.Malinga" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="15715" name="M.Muralitharan" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="25004" name="K.Sangakkara" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="8075" name="F.Maharoof" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="11713" name="N.Zoysa" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="3181" name="S.Jayasuriya" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="236" name="Shahid Nazir " skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="148" name="Mohammad Asif" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="5602" name="Kamran Akmal" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="6846" name="Faisal Iqbal" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="26130" name="Shoaib Akhtar" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="158" name="Saqlain Mushtaq" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="19802" name="Shoaib Malik" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="17065" name="Salman Butt" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="31754" name="Danish Kaneria" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="7603" name="Shahid Afridi" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="18800" name="Umar Gul" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="27130" name="Abdul Razzaq" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="22739" name="Mohammad Sami" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="12605" name="Mohammad Hafeez" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="22679" name="Naved-ul-Hasan" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="28666" name="Yasir Hameed" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="15993" name="Younis Khan" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="13849" name="Inzamam-ul-Haq" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="2683" name="Shabbir Ahmed" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="207" name="Imran Farhat" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="23559" name="Mohammad Yousuf" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="6596" name="Asim Kamal" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="6365" name="Imran Nazir" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="29845" name="Azhar Mahmood" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="43" name="S.Raina" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="44" name="S.Sreesanth" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="229" name="Munaf Patel" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="233" name="R.P.Singh" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="235" name="D.Karthik" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="18058" name="R.Dravid" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="2103" name="S.Ganguly" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="929" name="S.Tendulkar" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="13319" name="V.Sehwag" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="5386" name="V.V.S.Laxman" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="23655" name="G.Gambhir" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="18217" name="A.Agarkar" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="22614" name="A.Kumble" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="10052" name="M.Kaif" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="32749" name="M.S.Dhoni" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="11422" name="Harbhajan Singh" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="1064" name="Yuvraj Singh" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="179" name="Z.Khan" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="27930" name="I.Pathan" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="11072" name="W.Jaffer" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="257" name="Syed Rasel" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="258" name="Shahriar Nafees" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="8584" name="Khaled Mashud" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="15037" name="Enamul Haque" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="5677" name="Mohammad Ashrafu" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="2218" name="Rajin Saleh" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="29594" name="Mohammad Rafique" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="15006" name="Javed Omar" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="3495" name="Tapash Baisya" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="22617" name="Manjural Islam" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="12380" name="Mashrafe Mortaza" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="5987" name="Abdur Razzak " skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="21285" name="Habibul Bashar" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="211" name="Mushfiqur Rahim" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="276" name="Aftab Ahmed" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="278" name="Farhad Reza" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="279" name="Saqibul Hasan " skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="283" name="Mehrab Hossain" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="284" name="Shahadat Hossain" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="241" name="D.Ramdin" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="256" name="J.Taylor" skin="3" />
+    <player medhairstyles="" lowhairstyles="" location="4861" name="B.Lara" skin="3" />
+    <player medhairstyles="" lowhairstyles="" location="14393" name="I.Bradshaw" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="30507" name="M.Samuels" skin="3" />
+    <player medhairstyles="" lowhairstyles="" location="21626" name="F.Edwards" skin="3" />
+    <player medhairstyles="" lowhairstyles="" location="16156" name="W.Hinds" skin="3" />
+    <player medhairstyles="" lowhairstyles="" location="12026" name="D.S.Smith" skin="3" />
+    <player medhairstyles="" lowhairstyles="" location="22583" name="D.Powell" skin="3" />
+    <player medhairstyles="" lowhairstyles="" location="26682" name="C.Baugh" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="2024" name="D.Mohammed" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="25285" name="R.Morton" skin="3" />
+    <player medhairstyles="" lowhairstyles="" location="26411" name="R.Powell" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="15345" name="R.Sarwan" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="25731" name="C.Collymore" skin="3" />
+    <player medhairstyles="" lowhairstyles="" location="4303" name="D.Ganga" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="16623" name="S.Chanderpaul" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="4086" name="D.Bravo" skin="3" />
+    <player medhairstyles="" lowhairstyles="" location="10706" name="C.Gayle" skin="3" />
+    <player medhairstyles="" lowhairstyles="" location="12147" name="S.Joseph" skin="3" />
+    <player medhairstyles="" lowhairstyles="" location="280" name="P.Collins" skin="3" />
+    <player medhairstyles="" lowhairstyles="" location="281" name="D.R.Smith" skin="3" />
+    <player medhairstyles="" lowhairstyles="" location="32167" name="R.Sidebottom" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="16585" name="P.Jaques" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="2" name="M.Johnson" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="5408" name="D.Fernando" skin="3" />
+    <player medhairstyles="" lowhairstyles="" location="24412" name="I.Sharma" skin="3" />
+    <player medhairstyles="" lowhairstyles="" location="5408" name="D.Fernando" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="24412" name="I.Sharma" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="306" name="R.Sharma" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="1327" name="I Amerasinghe" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="24412" name="I.Sharma" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="237" name="Iftikhar Anjum" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="242" name="K.Dabengwa" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="242" name="K.Dabengwa" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="243" name="S.Chattergoon" skin="3" />
+    <player medhairstyles="" lowhairstyles="" location="245" name="N.Kulasekara" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="246" name="R.Perera" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="247" name="A Rashid" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="248" name="J.Mubarak" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="249" name="S.Weerakoon" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="250" name="K.Prasad" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="251" name="M.Vandort" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="252" name="C.Kapugedera" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="251" name="U.Tharanga" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="255" name="C.Silva" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="251" name="U.Tharanga" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="18298" name="M.Tiwary" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="7375" name="R.Uthappa" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="245" name="N.Kulasekara" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="19184" name="R.Bopara" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="246" name="R.Perera" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="251" name="U.Tharanga" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="255" name="C.Silva" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="18819" name="M.Morkel" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="18819" name="M.Morkel" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="16623" name="S.Chanderpaul" skin="3" />
+    <player medhairstyles="" lowhairstyles="" location="1337" name="S.Ganga" skin="3" />
+    <player medhairstyles="" lowhairstyles="" location="3181" name="S.Jayasuriya" skin="3" />
+    <player medhairstyles="" lowhairstyles="" location="3181" name="S.Jayasuriya" skin="3" />
+    <player medhairstyles="" lowhairstyles="" location="5011" name="R.Arnold" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="11896" name="J.Kemp" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="218" name="N.McKenzie" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="217" name="Misbah-ul-Haq" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="217" name="Misbah-ul-Haq" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="20589" name="L.Klusener" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="12788" name="D.Steyn" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="155" name="J.van der Wath" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="153" name="L.Bosman" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="47" name="A.de Villiers" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="29554" name="A.Morkel" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="158" name="Saqlain Mushtaq" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="31754" name="Danish Kaneria" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="10533" name="Sohail Tanvir" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="22432" name="Yasir Arafat" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="2667" name="C.Cairns" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="28741" name="J.Marshall" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="70" name="R.Taylor" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="46" name="J.Patel" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="45" name="J.How" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="42" name="J.Franklin" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="7375" name="R.Uthappa" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="27857" name="M.Patel" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="306" name="R.Sharma" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="2556" name="P.Mustard" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="28636" name="J.Dalrymple" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="29052" name="D.Mascarenhas" skin="3" />
+    <player medhairstyles="" lowhairstyles="" location="30480" name="S.Broad" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="32167" name="R.Sidebottom" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="9406" name="C.White" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="20845" name="C.Tremlett" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="5677" name="Mohammad Ashrafu" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="5987" name="Abdur Razzak " skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="16585" name="P.Jaques" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="27995" name="L.Pomersbach" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="25283" name="A.Voges" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="2" name="M.Johnson" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="287" name="P.Jayawardene" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="494" name="D.Tuffey" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="18228" name="K.Mills" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="47" name="A.de Villiers" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="47" name="A.de Villiers" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="2318" name="A.Prince" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="12788" name="D.Steyn" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="47" name="A.de Villiers" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="2318" name="A.Prince" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="12788" name="D.Steyn" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="18819" name="M.Morkel" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="294" name="M.Gillespie" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="2556" name="P.Mustard" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="14575" name="L.Wright" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="132" name="M.Klinger" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="306" name="R.Sharma" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="125" name="B.Hilfenhaus" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="19184" name="R.Bopara" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="26604" name="Faisal Hossain" skin="3" />
+    <player medhairstyles="" lowhairstyles="" location="15037" name="Enamul Haque" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="23775" name="Khaled Mahmud" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="29594" name="Mohammad Rafique" skin="3" />
+    <player medhairstyles="" lowhairstyles="" location="25732" name="Hannan Sarkar" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="4471" name="Shahriar Hossain" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="19323" name="E.Joyce" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="12380" name="Mashrafe Mortaza" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="3495" name="Tapash Baisya" skin="3" />
+    <player medhairstyles="" lowhairstyles="" location="8584" name="Khaled Mashud" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="2218" name="Rajin Saleh" skin="3" />
+    <player medhairstyles="" lowhairstyles="" location="21285" name="Habibul Bashar" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="15006" name="Javed Omar" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="2584" name="H.Masakadza" skin="3" />
+    <player medhairstyles="" lowhairstyles="" location="28312" name="T.Mupariwa" skin="3" />
+    <player medhairstyles="" lowhairstyles="" location="5826" name="E.Chigumbura" skin="3" />
+    <player medhairstyles="" lowhairstyles="" location="11301" name="S.Williams" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="230" name="P.Utseya" skin="3" />
+    <player medhairstyles="" lowhairstyles="" location="230" name="P.Utseya" skin="3" />
+    <player medhairstyles="" lowhairstyles="" location="27116" name="S.Matsikenyeri" skin="3" />
+    <player medhairstyles="" lowhairstyles="" location="3499" name="B.Taylor" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="12151" name="B.Taylor" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="2370" name="K.Lokuarachchi" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="24358" name="U.Chandana" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="22583" name="D.Powell" skin="3" />
+    <player medhairstyles="" lowhairstyles="" location="15345" name="R.Sarwan" skin="3" />
+    <player medhairstyles="" lowhairstyles="" location="6596" name="Asim Kamal" skin="3" />
+    <player medhairstyles="" lowhairstyles="" location="10267" name="Taufeeq Umar" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="4266" name="H.Amla" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="21122" name="R.Jacobs" skin="3" />
+    <player medhairstyles="" lowhairstyles="" location="1188" name="N.Hauritz" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="15667" name="P.Kumar" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="20556" name="J.Hopes" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="20556" name="J.Hopes" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="223" name="J.Duminy" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="306" name="V.Murugaraj" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="5140" name="L.Balaji" skin="3" />
+    <player medhairstyles="" lowhairstyles="" location="237" name="Iftikhar Anjum" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="238" name="Mohammad Sami" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="239" name="Bazid Khan" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="240" name="Samiullah Khan" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="242" name="K.Dabengwa" skin="3" />
+    <player medhairstyles="" lowhairstyles="" location="243" name="S.Chattergoon" skin="3" />
+    <player medhairstyles="" lowhairstyles="" location="245" name="N.Kulasekara" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="245" name="N.Kulasekara" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="247" name="A Rashid" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="248" name="J.Mubarak" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="249" name="S.Weerakoon" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="250" name="K.Prasad" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="251" name="M.Vandort" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="252" name="C.Kapugedera" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="251" name="U.Tharanga" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="254" name="A.Ganegama" skin="3" />
+    <player medhairstyles="" lowhairstyles="" location="255" name="C.Silva" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="257" name="Syed Rasel" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="258" name="Shahriar Nafees" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="259" name="T.Duffin" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="259" name="T.Duffin" skin="3" />
+    <player medhairstyles="" lowhairstyles="" location="259" name="T.Duffin" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="260" name="C.Chibhabha" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="261" name="C.Coventry" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="262" name="R.Higgins" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="263" name="A.Ireland" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="264" name="B.Mahwire" skin="3" />
+    <player medhairstyles="" lowhairstyles="" location="265" name="K.Meth" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="266" name="E.Rainsford" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="267" name="P.Rinke" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="268" name="V.Sibanda" skin="3" />
+    <player medhairstyles="" lowhairstyles="" location="269" name="G.Strydom" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="270" name="T.Mufambisi" skin="3" />
+    <player medhairstyles="" lowhairstyles="" location="271" name="T.Kamungozi" skin="3" />
+    <player medhairstyles="" lowhairstyles="" location="272" name="G.Brent" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="273" name="O.Banks" skin="3" />
+    <player medhairstyles="" lowhairstyles="" location="274" name="Y.Venugopal Rao" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="275" name="Arshad Khan" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="276" name="Aftab Ahmed" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="277" name="Tushar Imran" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="278" name="Farhad Reza" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="279" name="Saqibul Hasan " skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="279" name="Saqibul Hasan " skin="3" />
+    <player medhairstyles="" lowhairstyles="" location="280" name="P.Collins" skin="3" />
+    <player medhairstyles="" lowhairstyles="" location="281" name="D.R.Smith" skin="3" />
+    <player medhairstyles="" lowhairstyles="" location="282" name="A.Ritchard" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="283" name="Mehrab Hossain" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="284" name="Shahadat Hossain" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="285" name="C.Cumming" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="286" name="Abdur Rehman" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="287" name="P.Jayawardene" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="287" name="P.Jayawardene" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="287" name="P.Jayawardene" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="289" name="G.Wijekcoon" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="290" name="Nazmus Sadat" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="290" name="Nazmus Sadat" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="291" name="Nadif Chowdhury" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="295" name="Tamim Iqbal" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="42" name="J.Franklin" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="46" name="J.Patel" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="20845" name="C.Tremlett" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="2559" name="P.Chawla" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="11713" name="N.Zoysa" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="9206" name="M.Bevan" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="42" name="J.Franklin" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="42" name="J.Franklin" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="294" name="M.Gillespie" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="70" name="R.Taylor" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="28741" name="J.Marshall" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="5140" name="L.Balaji" skin="3" />
+    <player medhairstyles="" lowhairstyles="" location="255" name="C.Silva" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="4861" name="B.Lara" skin="3" />
+    <player medhairstyles="" lowhairstyles="" location="3499" name="B.Taylor" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="3499" name="B.Taylor" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="272" name="G.Brent" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="272" name="G.Brent" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="31926" name="B.Casson" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="22049" name="D.Hussey" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="15667" name="P.Kumar" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="15667" name="P.Kumar" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="5140" name="L.Balaji" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="5140" name="L.Balaji" skin="3" />
+    <player medhairstyles="" lowhairstyles="" location="18298" name="M.Tiwary" skin="3" />
+    <player medhairstyles="" lowhairstyles="" location="18298" name="M.Tiwary" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="141" name="Y.Pathan" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="2130" name="P.Patel" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="2103" name="S.Ganguly" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="306" name="R.Sharma" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="306" name="R.Sharma" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="3181" name="S.Jayasuriya" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="3181" name="S.Jayasuriya" skin="3" />
+    <player medhairstyles="" lowhairstyles="" location="26411" name="R.Powell" skin="3" />
+    <player medhairstyles="" lowhairstyles="" location="18819" name="M.Morkel" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="15667" name="P.Kumar" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="15667" name="P.Kumar" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="2559" name="P.Chawla" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="2559" name="P.Chawla" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="2559" name="P.Chawla" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="2559" name="P.Chawla" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="18819" name="M.Morkel" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="148" name="Mohammad Asif" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="287" name="P.Jayawardene" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="251" name="M.Vandort" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="251" name="M.Vandort" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="3181" name="S.Jayasuriya" skin="3" />
+    <player medhairstyles="" lowhairstyles="" location="9206" name="M.Bevan" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="12380" name="Mashrafe Mortaza" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="7969" name="T.Kohli" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="10052" name="M.Kaif" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="2559" name="P.Chawla" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="180" name="V.Kohli" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="24412" name="I.Sharma" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="158" name="Saqlain Mushtaq" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="20923" name="M.Goni" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="24203" name="S.Marsh" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="10851" name="A.Nehra" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="12380" name="Mashrafe Mortaza" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="148" name="Mohammad Asif" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="4668" name="D.Flynn" skin="1" />
+    <player medhairstyles="" lowhairstyles="" location="12380" name="Mashrafe Mortaza" skin="2" />
+    <player medhairstyles="" lowhairstyles="" location="2913" name="S.Dhawan" skin="2" />
+  </players>
+</config>

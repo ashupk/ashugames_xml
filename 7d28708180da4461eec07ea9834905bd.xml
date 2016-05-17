@@ -1,0 +1,38 @@
+<fieldingoption>
+    <player id="Fielder_0">
+        <startpos x="2.249988" y="2.019970" />
+        <sequence name="Basic04b.anm" />
+    </player>
+    <player id="Fielder_1">
+        <startpos x="1.914982" y="0.515001" />
+        <sequence name="Basic04b.anm" />
+    </player>
+    <player id="Fielder_2">
+        <startpos x="1.369993" y="-1.025000" />
+        <sequence name="Basic04b.anm" />
+    </player>
+    <player id="Fielder_3">
+        <startpos x="0.924998" y="-2.279986" />
+        <sequence name="Basic04b.anm" />
+    </player>
+    <player id="Fielder_4">
+        <startpos x="-0.930000" y="-2.404967" />
+        <sequence name="Basic04b.anm" />
+    </player>
+    <player id="Fielder_5">
+        <startpos x="-0.604941" y="0.404981" />
+        <sequence name="Close01.anm" />
+    </player>
+    <player id="Fielder_6">
+        <startpos x="-6.909959" y="-0.779999" />
+        <sequence name="Basic04b.anm" />
+    </player>
+    <player id="Fielder_7">
+        <startpos x="-2.299971" y="1.069998" />
+        <sequence name="Basic04b.anm" />
+    </player>
+    <player id="Fielder_8">
+        <startpos x="-1.619970" y="2.234961" />
+        <sequence name="Basic04b.anm" />
+    </player>
+</fieldingoption>

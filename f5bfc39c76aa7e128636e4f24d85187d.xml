@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<replaySeqRoot numberOfSequences="2">
+	<replaySequence name= "BOWLED_OUT_NB" type="BOWLED_OUT">
+	
+		<event name = "BOWL"/>
+		<event name="BOWLED_OUT"/>
+					
+		<command name= "SET_CAMERA_FOCUS">
+		<focus>BALL</focus>
+		</command>
+		
+		<command name= "SET_NAMED_CAMERA">
+		<camera name ="XZCamera" />
+		</command>
+		
+		<command name = "REWIND_TO_EVENT">
+		<event name = "BOWL"></event>
+		</command>
+
+		<command name="SET_PLAY_SPEED">
+		<speed>0.5</speed>
+		</command>
+	
+		<command name = "PLAY_TO_EVENT">
+		<event>BOWLED_OUT</event>
+		</command>
+		
+		<command name="PLAY_N_TICKS">
+		<ticks>2</ticks>
+		</command>
+	
+		<command name = "REWIND_TO_EVENT">
+		<event name = "BOWL"></event>
+		</command>
+
+		<command name= "SET_NAMED_CAMERA">
+		<camera name ="BOWLEDOUT" />
+		</command>
+			
+		<command name="SET_PLAY_SPEED">
+		<speed>0.5</speed>
+		</command>
+		
+		<command name = "PLAY_TO_EVENT">
+		<event>BOWLED_OUT</event>
+		</command>
+		
+		<command name="PLAY_N_TICKS">
+		<ticks>2</ticks>
+		</command>
+
+		<command name = "REWIND_TO_EVENT">
+		<event name = "BOWL"></event>
+		</command>
+
+		<command name= "SET_NAMED_CAMERA">
+		<camera name ="LBW" />
+		</command>
+		<command name= "SET_CAMERA_FOCUS">
+		<focus>STUMP</focus>
+		</command>
+			
+		<command name="SET_PLAY_SPEED">
+		<speed>0.3</speed>
+		</command>
+		
+		<command name = "PLAY_TO_EVENT">
+		<event>BOWLED_OUT</event>
+		</command>
+		
+		<command name="PLAY_N_TICKS">
+		<ticks>2</ticks>
+		</command>
+			
+	</replaySequence>
+</replaySeqRoot>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<replaySeqRoot numberOfSequences="1">
+	<replaySequence name= "BOUNDARY4" type="BOUNDARY4">
+	
+
+		<event name = "BOWL"/>
+		<event name="HIT"/>
+		<event name="BOUNDARY4"/>
+		
+		
+			
+		<command name= "SET_NAMED_CAMERA">
+		<camera name ="XZcamera" />
+		</command>
+		<command name= "SET_CAMERA_FOCUS">
+		<focus>BALL</focus>
+		</command>
+		
+		<command name="SET_PLAY_SPEED">
+		<speed>0.5</speed>
+		</command>
+		
+		<command name="PLAY_TO_END">
+		</command>
+	
+		<command name = "REWIND_TO_EVENT">
+		<event name = "BOWL">
+		</event>
+		</command>
+		<command name="REWIND_N_TICKS">
+		<ticks>50</ticks>
+		</command>
+
+		<command name= "SET_NAMED_CAMERA">
+		<camera name ="XZCamera" />
+		</command>
+			
+		<command name="SET_PLAY_SPEED">
+		<speed>0.5</speed>
+		</command>
+		
+		<command name="PLAY_N_TICKS">
+		<ticks>4</ticks>
+		</command>
+
+		<command name = "REWIND_TO_EVENT">
+		<event name = "BOWL">
+		</event>
+		</command>
+		<command name="REWIND_N_TICKS">
+		<ticks>50</ticks>
+		</command>
+
+		<command name= "SET_NAMED_CAMERA">
+		<camera name ="SLIPSCAUGHT" />
+		</command>
+			
+		<command name="SET_PLAY_SPEED">
+		<speed>0.5</speed>
+		</command>
+		
+		<command name="PLAY_N_TICKS">
+		<ticks>2</ticks>
+		</command>
+
+		
+		<command name= "SET_NAMED_CAMERA">
+		<camera name ="LBW" />
+		</command>
+		<command name= "SET_CAMERA_FOCUS">
+		<focus>STUMP</focus>
+		</command>
+
+		<command name = "REWIND_TO_EVENT">
+		<event name = "BOWL">
+		</event>
+		</command>
+		<command name="REWIND_N_TICKS">
+		<ticks>10</ticks>
+		</command>
+
+		<command name="SET_PLAY_SPEED">
+		<speed>0.3</speed>
+		</command>
+		<command name="PLAY_N_TICKS">
+		<ticks>1</ticks>
+		</command>
+
+		<command name= "SET_NAMED_CAMERA">
+		<camera name ="XZCamera" />
+		</command>
+		<command name= "SET_CAMERA_FOCUS">
+		<focus>BALL</focus>
+		</command>
+		<command name="SET_PLAY_SPEED">
+		<speed>0.7</speed>
+		</command>
+		<command name="PLAY_N_TICKS">
+		<ticks>8</ticks>
+		</command>
+		
+	
+	</replaySequence>
+
+</replaySeqRoot>

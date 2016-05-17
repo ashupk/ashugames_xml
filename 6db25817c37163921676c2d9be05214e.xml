@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<Root>
+
+	<!--
+		A description of what this file contains.  This file contains a list of bowler ID's who are extra fast bowlers.
+		With these bowlers are two numbers.  
+		
+		The MaxFake is the fastest that they can bowl in miles per hour. This does not affect actual speed
+		in game, just what displays in the overlays.  (this is translated to kilometers per hour if used).
+		
+		The MaxReal is the fastest that they can bowl in meters per second.  This affects the actual in game delivery, but not what
+		shows up in the overlays.
+	/-->
+
+	<Bowler ID ="3892" MaxFake = "93" MaxReal = "42.47"/>	<!-- S.Harmison--/-->
+
+	<Bowler ID ="3860" MaxFake = "85" MaxReal = "38.00"/>	<!-- M.Hoggard--/-->
+
+	<Bowler ID ="4827" MaxFake = "90" MaxReal = "40.23"/>	<!-- Simon Jones--/-->
+
+	<Bowler ID ="12051" MaxFake = "89" MaxReal = "40.47"/>	<!-- J.Anderson--/-->
+
+	<Bowler ID ="30480" MaxFake = "89" MaxReal = "41.00"/>	<!-- S.Broad--/-->
+
+	<Bowler ID ="32167" MaxFake = "86" MaxReal = "38.23"/>	<!-- R.Sidebottom--/-->
+
+	<Bowler ID ="25679" MaxFake = "90" MaxReal = "40.23"/>	<!-- A.Flintoff--/-->
+	
+	<Bowler ID ="15909" MaxFake = "99" MaxReal = "44.26"/>	<!-- B.Lee--/-->
+	
+	<Bowler ID ="15484" MaxFake = "99" MaxReal = "44.47"/>	<!-- S.Tait--/-->
+
+        <Bowler ID ="8881" MaxFake = "85" MaxReal = "37.70"/>	<!-- Bracken--/-->
+
+	<Bowler ID ="2" MaxFake = "94" MaxReal = "42.47"/>	<!-- M.Johnson--/-->
+
+        <Bowler ID ="125" MaxFake = "86" MaxReal = "38.70"/>	<!-- Hilfenhaus--/-->
+
+        <Bowler ID ="693" MaxFake = "83" MaxReal = "37.70"/>	<!-- Watson--/-->
+	
+	<Bowler ID ="6059" MaxFake = "88" MaxReal = "40.23"/>	<!-- J.Gillespie--/-->
+	
+	<Bowler ID ="18858" MaxFake = "82" MaxReal = "37.10"/>	<!-- G.McGrath--/-->
+
+	<Bowler ID ="18204" MaxFake = "88" MaxReal = "39.10"/>	<!-- S.Clark--/-->	
+
+	<Bowler ID ="27930" MaxFake = "86" MaxReal = "38.10"/>	<!-- i.Pathan--/-->
+	
+	<Bowler ID ="28910" MaxFake = "88" MaxReal = "40.23"/>	<!-- Zaheer Khan--/-->
+
+	<Bowler ID ="179" MaxFake = "88" MaxReal = "40.23"/>	<!-- Zaheer Khan--/-->
+
+	<Bowler ID ="44" MaxFake = "89" MaxReal = "40.72"/>	<!-- S.Sreesanth--/-->
+
+	<Bowler ID ="233" MaxFake = "89" MaxReal = "40.72"/>	<!-- RP. Singh--/-->
+
+	<Bowler ID ="23956" MaxFake = "92" MaxReal = "41.33"/>	<!-- Ishant Sharma--/-->
+
+	<Bowler ID ="229" MaxFake = "88" MaxReal = "40.59"/>	<!-- Munaf Patel--/-->
+
+	<Bowler ID ="18217" MaxFake = "86" MaxReal = "38.13"/>	<!-- Agarkar--/-->
+	
+	<Bowler ID ="2693" MaxFake = "95" MaxReal = "42.47"/>	<!-- S.Bond--/-->
+
+	<Bowler ID ="42" MaxFake = "90" MaxReal = "39.88"/>	<!-- Franklin--/-->
+
+	<Bowler ID ="186" MaxFake = "89" MaxReal = "39.28"/>	<!-- M.Gillespie--/-->
+
+	<Bowler ID ="10407" MaxFake = "89" MaxReal = "39.28"/>	<!-- CS Martin--/-->
+	
+	<Bowler ID ="4941" MaxFake = "93" MaxReal = "41.67"/>	<!-- M.Ntini--/-->
+
+	<Bowler ID ="12788" MaxFake = "95" MaxReal = "42.17"/>	<!-- D.Steyn--/-->
+
+	<Bowler ID ="196" MaxFake = "95" MaxReal = "42.17"/>	<!-- Morne Morkel--/-->
+
+	<Bowler ID ="3152" MaxFake = "85" MaxReal = "37.10"/>	<!-- S.Pollock--/-->	
+	
+	<Bowler ID ="8944" MaxFake = "85" MaxReal = "38.00"/>	<!-- Andre Nel--/-->
+		
+	<Bowler ID ="26130" MaxFake = "99" MaxReal = "44.70"/>	<!-- Shoaib Akhtar--/-->
+	
+	<Bowler ID ="22679" MaxFake = "90" MaxReal = "40.23"/>	<!-- Naved-ul-Hasan--/-->
+	
+	<Bowler ID ="238" MaxFake = "92" MaxReal = "41.13"/>	<!-- M.Sami--/-->
+	
+	<Bowler ID ="18296" MaxFake = "85" MaxReal = "38.00"/>	<!-- C.Vaas--/-->	
+
+	<Bowler ID ="26458" MaxFake = "93" MaxReal = "41.23"/>	<!-- Malinga--/-->
+
+	<Bowler ID ="5408" MaxFake = "90" MaxReal = "40.23"/>	<!-- D.Fernando--/-->
+
+	<Bowler ID ="12380" MaxFake = "90" MaxReal = "40.23"/>	<!-- Mashrafe Mortaza--/-->
+
+	<Bowler ID ="5818" MaxFake = "93" MaxReal = "41.57"/>	<!-- Tino Best--/-->
+
+	<Bowler ID ="21626" MaxFake = "95" MaxReal = "42.47"/>	<!-- Fidel Edwards--/-->
+
+	<Bowler ID ="24823" MaxFake = "90" MaxReal = "39.23"/>	<!-- Davis Joseph--/-->
+
+	<Bowler ID ="3825" MaxFake = "90" MaxReal = "39.23"/>	<!-- Edger Schiferli--/-->
+
+	<Bowler ID ="10533" MaxFake = "91" MaxReal = "40.05"/>	<!-- Sohail tanvir--/-->
+
+	<Bowler ID ="18800" MaxFake = "93" MaxReal = "41.23"/>	<!-- Umar gul--/-->
+	
+	<Bowler ID ="306" MaxFake = "91" MaxReal = "42.05"/>	<!-- Black Magic--/-->
+
+</Root>
